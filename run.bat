@@ -1,0 +1,2 @@
+C:\Users\Imranullah\IdeaProjects\SeleniumFundamentals\SeleniumFrameWorkDesign
+mvn clean test
